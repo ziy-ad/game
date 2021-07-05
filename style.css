@@ -40,7 +40,7 @@ body
 .animation
 {
   display: none;
-  font-family: "Press Start 2P", monospace, ;
+  font-family: "Press Start 2P", monospace;
   animation: nintendo 3000ms ease-in-out forwards;
   position: relative;
   top: 40%;
